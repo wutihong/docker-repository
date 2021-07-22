@@ -7,3 +7,4 @@
 docker run -n name wutihong/osslsigncode-jdk8:latest
 ```
 
+* 由于jdk文件超过100M，不允许上传，请自行选择对应的jdk版本进行替换，修改Dockerfile中关于jdk相关配置即可
